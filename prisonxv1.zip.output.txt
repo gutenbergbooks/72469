@@ -1,0 +1,47 @@
+﻿unzipping /htdocs/ebookmaker/cache/20231221083945/prisonxv1.zip
+Archive:  /htdocs/ebookmaker/cache/20231221083945/prisonxv1.zip
+   creating: /htdocs/ebookmaker/cache/20231221083945/images/
+  inflating: /htdocs/ebookmaker/cache/20231221083945/images/cover.jpg  
+  inflating: /htdocs/ebookmaker/cache/20231221083945/images/i_frontis_a.jpg  
+  inflating: /htdocs/ebookmaker/cache/20231221083945/images/i_frontis_b.jpg  
+ extracting: /htdocs/ebookmaker/cache/20231221083945/images/i_frontis_c.jpg  
+  inflating: /htdocs/ebookmaker/cache/20231221083945/prisonxv1-utf8.txt  
+  inflating: /htdocs/ebookmaker/cache/20231221083945/prisonxv1.html  
+
+Input file: /htdocs/ebookmaker/cache/20231221083945/prisonxv1.html
+
+--- Validating your uploaded file
+/htdocs/ebookmaker/cache/20231221083945/prisonxv1.html
+--- Validation complete
+
+
+--- Starting ebookmaker processing
+EbookMaker 0.12.38
+WARNING:root:Empty alt text for file:///htdocs/ebookmaker/cache/20231221083945/images/i_frontis_a.jpg. See https://www.w3.org/WAI/tutorials/images/ for info on accessible alt text.
+WARNING:root:Empty alt text for file:///htdocs/ebookmaker/cache/20231221083945/images/i_frontis_b.jpg. See https://www.w3.org/WAI/tutorials/images/ for info on accessible alt text.
+WARNING:root:Empty alt text for file:///htdocs/ebookmaker/cache/20231221083945/images/i_frontis_c.jpg. See https://www.w3.org/WAI/tutorials/images/ for info on accessible alt text.
+WARNING:root:Empty alt text for file:///htdocs/ebookmaker/cache/20231221083945/images/i_frontis_a.jpg. See https://www.w3.org/WAI/tutorials/images/ for info on accessible alt text.
+WARNING:root:Empty alt text for file:///htdocs/ebookmaker/cache/20231221083945/images/i_frontis_b.jpg. See https://www.w3.org/WAI/tutorials/images/ for info on accessible alt text.
+WARNING:root:Empty alt text for file:///htdocs/ebookmaker/cache/20231221083945/images/i_frontis_c.jpg. See https://www.w3.org/WAI/tutorials/images/ for info on accessible alt text.
+WARNING:root:Empty alt text for file:///htdocs/ebookmaker/cache/20231221083945/images/i_frontis_a.jpg. See https://www.w3.org/WAI/tutorials/images/ for info on accessible alt text.
+WARNING:root:Empty alt text for file:///htdocs/ebookmaker/cache/20231221083945/images/i_frontis_b.jpg. See https://www.w3.org/WAI/tutorials/images/ for info on accessible alt text.
+WARNING:root:Empty alt text for file:///htdocs/ebookmaker/cache/20231221083945/images/i_frontis_c.jpg. See https://www.w3.org/WAI/tutorials/images/ for info on accessible alt text.
+WARNING:root:Empty alt text for file:///htdocs/ebookmaker/cache/20231221083945/images/i_frontis_a.jpg. See https://www.w3.org/WAI/tutorials/images/ for info on accessible alt text.
+WARNING:root:Empty alt text for file:///htdocs/ebookmaker/cache/20231221083945/images/i_frontis_b.jpg. See https://www.w3.org/WAI/tutorials/images/ for info on accessible alt text.
+WARNING:root:Empty alt text for file:///htdocs/ebookmaker/cache/20231221083945/images/i_frontis_c.jpg. See https://www.w3.org/WAI/tutorials/images/ for info on accessible alt text.
+WARNING:root:Empty alt text for file:///htdocs/ebookmaker/cache/20231221083945/images/i_frontis_a.jpg. See https://www.w3.org/WAI/tutorials/images/ for info on accessible alt text.
+WARNING:root:Empty alt text for file:///htdocs/ebookmaker/cache/20231221083945/images/i_frontis_b.jpg. See https://www.w3.org/WAI/tutorials/images/ for info on accessible alt text.
+WARNING:root:Empty alt text for file:///htdocs/ebookmaker/cache/20231221083945/images/i_frontis_c.jpg. See https://www.w3.org/WAI/tutorials/images/ for info on accessible alt text.
+WARNING:root:Empty alt text for file:///htdocs/ebookmaker/cache/20231221083945/images/i_frontis_a.jpg. See https://www.w3.org/WAI/tutorials/images/ for info on accessible alt text.
+WARNING:root:Empty alt text for file:///htdocs/ebookmaker/cache/20231221083945/images/i_frontis_b.jpg. See https://www.w3.org/WAI/tutorials/images/ for info on accessible alt text.
+WARNING:root:Empty alt text for file:///htdocs/ebookmaker/cache/20231221083945/images/i_frontis_c.jpg. See https://www.w3.org/WAI/tutorials/images/ for info on accessible alt text.
+WARNING:root:48 elements having class pageno have been rewritten.
+WARNING:root:Empty alt text for file:///htdocs/ebookmaker/cache/20231221083945/images/i_frontis_a.jpg. See https://www.w3.org/WAI/tutorials/images/ for info on accessible alt text.
+WARNING:root:Empty alt text for file:///htdocs/ebookmaker/cache/20231221083945/images/i_frontis_b.jpg. See https://www.w3.org/WAI/tutorials/images/ for info on accessible alt text.
+WARNING:root:Empty alt text for file:///htdocs/ebookmaker/cache/20231221083945/images/i_frontis_c.jpg. See https://www.w3.org/WAI/tutorials/images/ for info on accessible alt text.
+WARNING:root:48 elements having class pageno have been rewritten.
+WARNING:root:Empty alt text for file:///htdocs/ebookmaker/cache/20231221083945/images/i_frontis_a.jpg. See https://www.w3.org/WAI/tutorials/images/ for info on accessible alt text.
+WARNING:root:Empty alt text for file:///htdocs/ebookmaker/cache/20231221083945/images/i_frontis_b.jpg. See https://www.w3.org/WAI/tutorials/images/ for info on accessible alt text.
+WARNING:root:Empty alt text for file:///htdocs/ebookmaker/cache/20231221083945/images/i_frontis_c.jpg. See https://www.w3.org/WAI/tutorials/images/ for info on accessible alt text.
+WARNING:root:48 elements having class pageno have been rewritten.
+--- ebookmaker complete
